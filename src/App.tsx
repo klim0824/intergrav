@@ -1,6 +1,6 @@
-import { useCallback } from 'react';
-import { Container, Graphics } from 'pixi.js';
 import { Application, extend } from '@pixi/react';
+import { Container, Graphics } from 'pixi.js';
+import { useCallback } from 'react';
 
 extend({
   Container,
